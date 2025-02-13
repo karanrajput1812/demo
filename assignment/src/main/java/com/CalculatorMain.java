@@ -27,5 +27,7 @@ public class CalculatorMain
 		System.out.println("Multiply : "+ c1.mul(10, 20));
 		System.out.println("Addition 50 And 30 : "+ c1.add(50, 30));
 
+		System.out.println("Addition 80 And 30 : "+ c1.add(80, 30));
+
 	}
 }
