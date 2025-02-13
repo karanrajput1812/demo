@@ -26,5 +26,8 @@ public class CalculatorMain
 		System.out.println("Substract : "+ c1.sub(10, 20));
 		System.out.println("Multiply : "+ c1.mul(10, 20));
 		System.out.println("Addition 50 And 30 : "+ c1.add(50, 30));
+
+		System.out.println("Substract 50 And 30 : "+ c1.sub(50, 30));
+
 	}
 }
